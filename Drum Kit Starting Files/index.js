@@ -15,6 +15,8 @@ function handleClick() {
 }
 
 
+
+
 // check Keyboard input
 document.addEventListener("keypress", function(event) {
     makeSound(event.key);
